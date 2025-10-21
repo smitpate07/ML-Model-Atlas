@@ -14,4 +14,3 @@ Understanding which metric to use — and what it truly measures — is key to e
 
 ## Notebooks/Infographics
 1. Linear Regression
-2. Logistic Regression

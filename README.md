@@ -13,3 +13,6 @@ Understanding which metric to use — and what it truly measures — is key to e
 ![Performance_metrics](/images/performance_metrics.png)
 
 ## Notebooks/Infographics
+
+### 1.  Linear Regression
+![Linear_Regression](/images/Linear_regression.png)

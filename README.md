@@ -16,3 +16,5 @@ Understanding which metric to use — and what it truly measures — is key to e
 
 ### 1.  Linear Regression
 ![Linear_Regression](/images/Linear_regression.png)
+
+---

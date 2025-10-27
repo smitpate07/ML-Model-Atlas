@@ -39,6 +39,5 @@ Understanding which metric to use — and what it truly measures — is key to e
 | **Validation Set**                | A subset of data used to tune hyperparameters and evaluate during training.                                                    | Helps prevent overfitting.                                          |
 | **Cross-Validation**              | A technique for evaluating model reliability by splitting data into multiple folds for training and testing.                   | Provides a more accurate performance estimate.                      |
 | **Score / Metric**                | A numerical value that measures how well a model fits the data.                                                                | Used for comparison and improvement during development.             |
-| **Penalty**                       | A constraint or cost applied to a model’s complexity or weight size.                                                           | Reduces overfitting by discouraging extreme parameter values.       |
 
 ---

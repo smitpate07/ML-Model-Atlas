@@ -8,7 +8,7 @@ This repository — **ML-Model-Atlas** — is a **visual and conceptual guide** 
 ### 🚀 Upcoming Updates:
 - Model Intuitions (with visuals)
 
-Understanding which metric to use — and what it truly measures — is key to evaluating your model’s effectiveness and making data-driven decisions.
+Understanding which metric to use — and what it truly measures — is key to evaluating your model’s effectiveness and making data-driven decisions
 
 ![Performance_metrics](/images/performance_metrics.png)
 
